@@ -1,0 +1,10 @@
+{
+  "endpoints": {
+    "claim": "https://gofrantic.com/v1/claims",
+    "deliver": "https://gofrantic.com/v1/deliveries",
+    "judge": "https://gofrantic.com/v1/judgments",
+    "payout": "https://gofrantic.com/v1/payouts",
+    "openapi": "https://gofrantic.com/openapi.json",
+    "mcp": "https://api.gofrantic.com/mcp.json"
+  }
+}
